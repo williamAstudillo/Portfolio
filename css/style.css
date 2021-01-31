@@ -466,6 +466,7 @@ header {
 
 .footer__link {
     font-weight: var(--fw-bold);
+    
 }
 
 .footer__link:hover,
