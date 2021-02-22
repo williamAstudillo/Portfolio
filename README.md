@@ -1,2 +1,2 @@
 # Portfolio
-Hola , podras encontrar el link para ver mi portafolio en el siguiente enlace [Portfolio](https://williamastudillo.github.io/Portfolio/index.html)
+Hi, you will be able to look at it on the following link [Portfolio](https://williamastudillo.github.io/Portfolio/index.html)
